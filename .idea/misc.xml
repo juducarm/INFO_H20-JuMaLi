@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/jujud/AndroidStudioProjects/INFO_H20JML/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/jujud/AndroidStudioProjects/INFO_H20JML/app/src/main/res/layout/dzf.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/jujud/AndroidStudioProjects/INFO_H20JML/app/src/main/res/layout/fragment_clavier.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/jujud/AndroidStudioProjects/INFO_H20JML/app/src/main/res/layout/fragment_menu.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/jujud/AndroidStudioProjects/INFO_H20JML/app/src/main/res/layout/layout_clavier_fragment.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/jujud/AndroidStudioProjects/INFO_H20JML/app/src/main/res/layout/layout_menu_fragment.xml" value="0.36666666666666664" />
       </map>

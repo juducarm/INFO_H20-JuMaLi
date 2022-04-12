@@ -19,7 +19,10 @@
     <color name="paleTurquoise">#afeeee</color>
     <color name="darkTurquoise">#00ced1</color>
 
-    <!-- Couleurs des boutons/zone de textes-->
+    <!-- Couleurs -->
     <color name="bouton_principal">@color/midnightBlue</color>
-    <color name="texte_layout_principal">@color/navyBlue</color>
+    <color name="texte_layout_principal">@color/skyBlue</color>
+    <color name="layout_principal">@color/paleTurquoise</color>
+    <color name="fragment_clavier">@color/steelBlue</color>
+    <color name="fragment_menu">@color/lightSteelBlue</color>
 </resources>
