@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">INFO_H20-JML</string>
+
+<!-- textes pour le layout principal -->
+
+    <!-- texte pour le bouton de changement de fragment (bouton principal) -->
+    <string name="afficher_menu">Afficher le menu</string>
+    <string name="afficher_clavier">Afficher le clavier</string>
+
+    <!--  texte pour afficher le programme sélectionné (syntéthiseur ou sampleur) -->
+    <string name="programme_synthétiseur">programme : synthétiseur</string>
+    <string name="programme_sampleur">programme : sampleur</string>
+
+    <!--  texte pour afficher le preset sélectionné (type de synthé/instrument) -->
+    <string name="sample_trompette">sample : trompette</string>
+
 </resources>
