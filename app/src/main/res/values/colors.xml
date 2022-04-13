@@ -25,5 +25,7 @@
     <color name="layout_principal">@color/paleTurquoise</color>
     <color name="fragment_clavier">@color/steelBlue</color>
     <color name="fragment_menu">@color/lightSteelBlue</color>
-    <color name="background_effects">@color/lightSkyBlue</color>
+    <color name="background_cases_fragment_menu">@color/lightSkyBlue</color>
+    <color name="background_boutons_si_actifs">@color/purple_500</color>
+    <color name="background_boutons_repos">@color/purple_200</color>
 </resources>

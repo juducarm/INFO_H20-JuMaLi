@@ -15,10 +15,23 @@
     <string name="sample_trompette">sample : MABITE</string>
 
 <!--- textes pour le layout menu-->
-    <!-- boutons du menu-->
-    <string name="bouton1">Button1</string>
-    <string name="bouton2">Button2</string>
-    <string name="bouton3">Button3</string>
+    <!-- Boutons Effet-->
+
+    <string name="effet1">Effet1</string>
+    <string name="effet2">Effet2</string>
+    <string name="effet3">Effet3</string>
+    <string name="effet4">Effet4</string>
     <string name="effects">EFFETS</string>
+    <string name="volume">VOLUME</string>
+
+
+    <!--Boutons Instruments -->
+    <string name="instrument">INSTRUMENT</string>
+    <string name="instr1">INSTR1</string>
+    <string name="instr2">INSTR2</string>
+    <string name="instr3">INSTR3</string>
+    <string name="instr4">INSTR4</string>
+    <string name="instr5">INSTR5</string>
+
 
 </resources>
