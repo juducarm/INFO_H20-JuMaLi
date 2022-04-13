@@ -14,7 +14,7 @@
         android:layout_marginStart="31dp"
         android:layout_marginTop="40dp"
         android:layout_marginEnd="482dp"
-        android:background="@color/background_effects"
+        android:background="@color/background_cases_fragment_menu"
         android:text="@string/effects"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -26,7 +26,7 @@
         android:layout_width="138dp"
         android:layout_height="194dp"
         android:layout_marginTop="40dp"
-        android:background="@color/background_effects"
+        android:background="@color/background_cases_fragment_menu"
         android:text="@string/volume"
         app:layout_constraintEnd_toStartOf="@+id/textViewInstrument"
         app:layout_constraintHorizontal_bias="0.5"
@@ -39,7 +39,7 @@
         android:layout_height="194dp"
         android:layout_marginStart="482dp"
         android:layout_marginTop="40dp"
-        android:background="@color/background_effects"
+        android:background="@color/background_cases_fragment_menu"
         android:text="@string/instrument"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -68,6 +68,7 @@
                 android:id="@+id/button7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/background_boutons_repos"
                 android:text="@string/instr1" />
 
             <Button
