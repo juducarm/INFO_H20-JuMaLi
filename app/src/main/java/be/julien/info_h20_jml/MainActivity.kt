@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
                 transaction.replace(R.id.fragment_container,fragmentClavier)
                 transaction.addToBackStack(null) //conserve le fragment en mémoire
                 transaction.commit()
-
             }
 
             else {
@@ -45,11 +44,6 @@ class MainActivity : AppCompatActivity() {
                 transaction.addToBackStack(null) //conserve le fragment en mémoire
                 transaction.commit()
             }
-
         }
-
     }
-
-
-
 }

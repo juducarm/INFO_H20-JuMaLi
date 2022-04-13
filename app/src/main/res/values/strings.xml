@@ -12,7 +12,13 @@
     <string name="programme_sampleur">programme : sampleur</string>
 
     <!--  texte pour afficher le preset sélectionné (type de synthé/instrument) -->
-    <string name="sample_trompette">sample : trompette</string>
+    <string name="sample_trompette">sample : MABITE</string>
 
+<!--- textes pour le layout menu-->
+    <!-- boutons du menu-->
+    <string name="bouton1">Button1</string>
+    <string name="bouton2">Button2</string>
+    <string name="bouton3">Button3</string>
+    <string name="effects">EFFETS</string>
 
 </resources>

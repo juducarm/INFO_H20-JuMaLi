@@ -23,7 +23,7 @@ class FragmentMenu: Fragment() {
         //inflater transforme le xml en view
         val view = inflater!!.inflate(R.layout.fragment_menu,container,false)
 
-        val tv = view.findViewById<TextView>(R.id.fragment_menu)
+        //val tv = view.findViewById<TextView>(R.id.fragment_menu)
 
 
         return view
